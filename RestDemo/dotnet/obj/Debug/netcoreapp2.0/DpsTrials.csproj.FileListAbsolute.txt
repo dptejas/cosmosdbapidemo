@@ -1,0 +1,10 @@
+e:\Git\cosmosdbapidemo\RestDemo\dotnet\obj\Debug\netcoreapp2.0\DpsTrials.csproj.CoreCompileInputs.cache
+e:\Git\cosmosdbapidemo\RestDemo\dotnet\obj\Debug\netcoreapp2.0\DpsTrials.AssemblyInfoInputs.cache
+e:\Git\cosmosdbapidemo\RestDemo\dotnet\obj\Debug\netcoreapp2.0\DpsTrials.AssemblyInfo.cs
+e:\Git\cosmosdbapidemo\RestDemo\dotnet\bin\Debug\netcoreapp2.0\DpsTrials.deps.json
+e:\Git\cosmosdbapidemo\RestDemo\dotnet\bin\Debug\netcoreapp2.0\DpsTrials.runtimeconfig.json
+e:\Git\cosmosdbapidemo\RestDemo\dotnet\bin\Debug\netcoreapp2.0\DpsTrials.runtimeconfig.dev.json
+e:\Git\cosmosdbapidemo\RestDemo\dotnet\bin\Debug\netcoreapp2.0\DpsTrials.dll
+e:\Git\cosmosdbapidemo\RestDemo\dotnet\bin\Debug\netcoreapp2.0\DpsTrials.pdb
+e:\Git\cosmosdbapidemo\RestDemo\dotnet\obj\Debug\netcoreapp2.0\DpsTrials.dll
+e:\Git\cosmosdbapidemo\RestDemo\dotnet\obj\Debug\netcoreapp2.0\DpsTrials.pdb
