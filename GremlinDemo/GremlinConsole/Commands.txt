@@ -1,0 +1,32 @@
+cd C:\Users\kadurga\Desktop\DpsGremlin\apache-tinkerpop-gremlin-console-3.3.3\bin
+:remote connect tinkerpop.server conf/remote-secure.yaml
+:remote console
+
+Commands
+# Add Pro players
+g.addV('person').property('name', 'Virat Kohli').property('age', '29').property('height', '5.9ft').property('weblink', 'https://en.wikipedia.org/wiki/Virat_Kohli')
+g.addV('person').property('name', 'Vishwanathan Anand').property('age', '48').property('height', '5.8ft').property('weblink', 'https://en.wikipedia.org/wiki/Viswanathan_Anand')
+g.addV('person').property('name', 'Pullela Gopichand').property('age', '44').property('height', '5.11ft').property('weblink', 'https://en.wikipedia.org/wiki/Pullela_Gopichand')
+g.addV('person').property('name', 'P V Sindhu').property('age', '23').property('height', '5.11ft').property('weblink', 'https://en.wikipedia.org/wiki/P._V._Sindhu')
+
+# Add few sports
+g.addV('sports').property('name', 'Cricket').property('weblink', 'https://en.wikipedia.org/wiki/Cricket')
+g.addV('sports').property('name', 'Football').property('weblink', 'https://en.wikipedia.org/wiki/Football')
+g.addV('sports').property('name', 'Chess').property('weblink', 'https://en.wikipedia.org/wiki/Chess')
+g.addV('sports').property('name', 'Badminton').property('weblink', 'https://en.wikipedia.org/wiki/Badminton')
+
+# Add associations
+g.V().haslabel('person').has('name', 'Virat Kohli').addE('plays').to(g.V().haslabel('sports').has('name', 'Cricket'))
+g.V().haslabel('person').has('name', 'P V Sindhu').addE('plays').to(g.V().haslabel('sports').has('name', 'Badminton'))
+g.V().haslabel('person').has('name', 'Pullela Gopichand').addE('plays').to(g.V().haslabel('sports').has('name', 'Badminton'))
+g.V().haslabel('person').has('name', 'Vishwanathan Anand').addE('plays').to(g.V().haslabel('sports').has('name', 'Chess'))
+g.V().haslabel('person').has('name', 'Sunil Chhetri').addE('plays').to(g.V().haslabel('sports').has('name', 'Football'))
+g.V().haslabel('person').has('name', 'Pullela Gopichand').addE('coaches').to(g.V().haslabel('person').has('name', 'P V Sindhu'))
+
+#Search for all coaches
+g.E().haslabel('coaches')
+#Drop all edges
+g.E().Drop()
+
+#Drop all Vertices
+g.V().Drop()

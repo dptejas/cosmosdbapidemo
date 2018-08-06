@@ -1,0 +1,13 @@
+cd C:\Program Files\MongoDB\Server\4.0\bin\
+.\mongo.exe kadurgadpsmongoapi.documents.azure.com:10255 -u kadurgadpsmongoapi -p "<key>" --ssl --sslAllowInvalidCertificates
+
+#Commands
+show databases
+use postsdb
+show collections
+ db.posts.find()
+ db.posts.count()
+ db.posts.findOne()
+db.posts.find({id: "2"})
+db.posts.insertOne({id:"3", text:"Exams got over"})
+db.posts.deleteOne({id:"9"})
