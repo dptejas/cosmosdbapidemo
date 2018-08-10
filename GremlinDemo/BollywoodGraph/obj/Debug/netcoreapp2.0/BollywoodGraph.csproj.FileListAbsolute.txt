@@ -1,0 +1,10 @@
+e:\Git\cosmosdbapidemo\GremlinDemo\BollywoodGraph\bin\Debug\netcoreapp2.0\BollywoodGraph.deps.json
+e:\Git\cosmosdbapidemo\GremlinDemo\BollywoodGraph\bin\Debug\netcoreapp2.0\BollywoodGraph.runtimeconfig.json
+e:\Git\cosmosdbapidemo\GremlinDemo\BollywoodGraph\bin\Debug\netcoreapp2.0\BollywoodGraph.runtimeconfig.dev.json
+e:\Git\cosmosdbapidemo\GremlinDemo\BollywoodGraph\bin\Debug\netcoreapp2.0\BollywoodGraph.dll
+e:\Git\cosmosdbapidemo\GremlinDemo\BollywoodGraph\bin\Debug\netcoreapp2.0\BollywoodGraph.pdb
+e:\Git\cosmosdbapidemo\GremlinDemo\BollywoodGraph\obj\Debug\netcoreapp2.0\BollywoodGraph.csproj.CoreCompileInputs.cache
+e:\Git\cosmosdbapidemo\GremlinDemo\BollywoodGraph\obj\Debug\netcoreapp2.0\BollywoodGraph.AssemblyInfoInputs.cache
+e:\Git\cosmosdbapidemo\GremlinDemo\BollywoodGraph\obj\Debug\netcoreapp2.0\BollywoodGraph.AssemblyInfo.cs
+e:\Git\cosmosdbapidemo\GremlinDemo\BollywoodGraph\obj\Debug\netcoreapp2.0\BollywoodGraph.dll
+e:\Git\cosmosdbapidemo\GremlinDemo\BollywoodGraph\obj\Debug\netcoreapp2.0\BollywoodGraph.pdb

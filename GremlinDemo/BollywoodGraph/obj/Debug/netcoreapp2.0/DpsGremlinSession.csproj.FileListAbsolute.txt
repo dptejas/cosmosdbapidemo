@@ -1,0 +1,10 @@
+c:\Users\kadurga\Desktop\DpsGremlinSession\bin\Debug\netcoreapp2.0\DpsGremlinSession.deps.json
+c:\Users\kadurga\Desktop\DpsGremlinSession\bin\Debug\netcoreapp2.0\DpsGremlinSession.runtimeconfig.json
+c:\Users\kadurga\Desktop\DpsGremlinSession\bin\Debug\netcoreapp2.0\DpsGremlinSession.runtimeconfig.dev.json
+c:\Users\kadurga\Desktop\DpsGremlinSession\bin\Debug\netcoreapp2.0\DpsGremlinSession.dll
+c:\Users\kadurga\Desktop\DpsGremlinSession\bin\Debug\netcoreapp2.0\DpsGremlinSession.pdb
+c:\Users\kadurga\Desktop\DpsGremlinSession\obj\Debug\netcoreapp2.0\DpsGremlinSession.csproj.CoreCompileInputs.cache
+c:\Users\kadurga\Desktop\DpsGremlinSession\obj\Debug\netcoreapp2.0\DpsGremlinSession.AssemblyInfoInputs.cache
+c:\Users\kadurga\Desktop\DpsGremlinSession\obj\Debug\netcoreapp2.0\DpsGremlinSession.AssemblyInfo.cs
+c:\Users\kadurga\Desktop\DpsGremlinSession\obj\Debug\netcoreapp2.0\DpsGremlinSession.dll
+c:\Users\kadurga\Desktop\DpsGremlinSession\obj\Debug\netcoreapp2.0\DpsGremlinSession.pdb
